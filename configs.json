@@ -1,6 +1,5 @@
 {
-  "alireza": [
-    "vless://...#Alireza",
-    "vmess://..."
+  "VIP": [
+    "vless://4626d2ba-5439-4af1-9a68-61e071d59459@irzo.zone.id:443?security=reality&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=grpc&flow=&sni=www.speedtest.net&pbk=V584Qy81mma62Imcv9keGCVbefetr3hTESE628Qs6xk&sid=c89b155427f24d62&mode=gun&serviceName=47188dd5#VIP"
   ]
 }
